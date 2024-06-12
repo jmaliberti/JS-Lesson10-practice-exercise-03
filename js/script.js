@@ -4,7 +4,7 @@ const person = {
   student: true
 }
 
-console.log(Alice.student);
+console.log(person.student);
 
 console.log(person.lastName);
 
