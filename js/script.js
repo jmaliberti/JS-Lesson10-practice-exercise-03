@@ -18,4 +18,4 @@ person.walk = function(steps){
 
 person.walk(250);
 
-console.log(person.totalsteps);
+console.log(person.totalSteps);
