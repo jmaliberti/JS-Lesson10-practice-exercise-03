@@ -1,6 +1,6 @@
 const person = {
   name: "Alice",
-  lastName = "Parker",
+  lastName: "Parker",
   student: True
 }
 
