@@ -13,7 +13,7 @@ console.log(person.name);
 person.totalSteps = 200;
 
 person.walk = function(steps){
-  totalSteps += steps;
+  this.totalSteps += steps;
 }
 
 person.walk(250);
